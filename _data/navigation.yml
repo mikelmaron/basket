@@ -1,6 +1,16 @@
 # Site navigation links
 
-- title:
+- title: OSM in Action
   url:
-  excerpt:
-  image:
+  excerpt: Eu inani dolorem iudicabit nec. Duis minim theophrastus ius in, impetus volumus molestie ex mea. Ad mutat ipsum his. Saepe liberavisse eu nam. 
+  image: /ind-volcano/volcano_small.jpg
+
+- title: Other Page
+  url:
+  excerpt: Per decore splendide disputando id, qui duis repudiandae no. Quaestio constituto an cum, usu alterum vivendo ut, nam eu dissentias instructior.
+  image: osm.png
+
+- title: Second Page
+  url:
+  excerpt: Eu omnis commodo, mucius nostro sea at. An diam soluta dictas has. An solet timeam expetenda eum, harum voluptaria per ad. Commodo numquam sed et. His in elit voluptaria.
+  image: /old/bio-photo.jpg
