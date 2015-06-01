@@ -6,6 +6,7 @@ logo: osm_logo.png
 teaser: osm_logo.png
 locale:
 url:
+baseurl: '/basket'
 
 # Jekyll configuration
 
